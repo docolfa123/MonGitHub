@@ -5,6 +5,6 @@ int trean;
  String ville;
  double code;
  
- public void main(String [] int){
+ public void main(String [] arg){
  }
 }
