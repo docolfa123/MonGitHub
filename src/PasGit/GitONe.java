@@ -2,5 +2,9 @@ package PasGit;
 
 public class GitONe {
 int trean;
- String kjh;
+ String ville;
+ double code;
+ 
+ public void main(String [] int){
+ }
 }
